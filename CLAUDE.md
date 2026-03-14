@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a single-file vanilla JavaScript Tic Tac Toe game (`tictactoe.html`). There is no build system, package manager, or backend — open the file directly in any browser to run it.
 
+## Repository
+
+- **GitHub:** https://github.com/AarohanDhakal/tic-tac-toe
+- **Default branch:** `main`
+- All changes should be committed with clear messages and pushed to keep GitHub in sync.
+
 ## Architecture
 
 Everything lives in `tictactoe.html` in three inline sections:
